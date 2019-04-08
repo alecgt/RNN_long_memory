@@ -61,3 +61,7 @@ If you find these tools useful in your own work, please cite:
   year={2019},
 }
 ```
+
+## Acknowledgments
+
+This work was supported by the Big Data for Genomics and Neuroscience Training Grant 8T32LM012419, NSF TRIPODS Award CCF-1740551, the program ``Learning in Machines and Brains" of CIFAR, and faculty research awards.
