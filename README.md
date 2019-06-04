@@ -54,7 +54,7 @@ unzip glove.6B.zip
 If you find these tools useful in your own work, please cite:
 
 ```
-Greaves-Tunnell, A. & Harchaoui, Z.. (2019). A Statistical Investigation of Long Memory in Language and Music. Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:2394-2403
+Greaves-Tunnell, A. & Harchaoui, Z. (2019). A Statistical Investigation of Long Memory in Language and Music. Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:2394-2403
 ```
 
 
