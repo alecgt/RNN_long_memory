@@ -3,7 +3,7 @@
 This repository contains code, data, and illustrative Juypiter notebook detailing the analysis of natural language and music data, along with RNN models trained on such data, using statistical tools developed for long memory stochastic processes. Full details of this methodology and the associated experimental results can be found in the paper:
 
 [A Statistical Investigation of Long Memory in Language and Music](http://proceedings.mlr.press/v97/greaves-tunnell19a.html)<br/>
-Alec Greaves-Tunnell and Zaid Harchaoui<br/>
+Alexander Greaves-Tunnell and Zaid Harchaoui<br/>
 
 ## Structure of the repository
 
