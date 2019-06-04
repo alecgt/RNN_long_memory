@@ -81,10 +81,9 @@ def compute_total_memory(seq):
     k, T = seq.shape
     m = int(np.sqrt(T))
 
-    cvg = False
-    while not cvg:
-        GSE = multi_GSE(seq, m)
-        cvg = GSE['success']
+    GSE = multi_GSE(seq, m)
+    if not GSE['success']:
+        raise Exception('L-BFGS-B optimization failed')
 
     d = GSE['x']
     tot_mem = np.mean(d)
